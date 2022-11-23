@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Zitronensaft/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://zitronensaft.github.io/product-preview-card-component-main/)
+- Solution URL: [https://github.com/Zitronensaft/product-preview-card-component-main](https://github.com/Zitronensaft/product-preview-card-component-main)
+- Live Site URL: [https://zitronensaft.github.io/product-preview-card-component-main/](https://zitronensaft.github.io/product-preview-card-component-main/)
 
 ## My process
 
