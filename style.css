@@ -178,3 +178,7 @@ body {
     color: var(--dark-cyan);
 }
 
+.attribution {
+    padding-top: 2rem;
+}
+
